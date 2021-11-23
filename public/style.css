@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+   
+    background-size :cover;
+
+    background-image: url("https://savoir.tv/img/1570644046.jpg");
+  background-repeat: no-repeat;
+
+    background-attachment: local;
+}
+
+
+.content{
+    
+
+    margin: 0 300px;
+     text-align: center; 
+
+}
+h5{
+    color: red;
+}
